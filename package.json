@@ -6,6 +6,7 @@
   "dependencies": {
     "angular2": "^2.0.0-alpha.12",
     "imports-loader": "^0.6.3",
+    "rtts_assert": "^2.0.0-alpha.12",
     "traceur-runtime": "^0.0.59"
   },
   "devDependencies": {},

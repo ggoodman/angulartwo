@@ -2,7 +2,7 @@ var Webpack = require("webpack");
 
 module.exports = {
   context: __dirname + "/src",
-  entry: "./angular2",
+  entry: "./angulartwo",
   devtool: "source-map",
   output: {
     path: __dirname + "/dist",
