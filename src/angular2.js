@@ -1,0 +1,1 @@
+module.exports = require("imports?$traceurRuntime=traceur-runtime!angular2/angular2");
